@@ -1,0 +1,17 @@
+body{
+    margin: 20px;
+}
+.pic{
+    width: 150px;
+}
+
+.card{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.border-blue{
+    border: 1px dotted blue;
+}
